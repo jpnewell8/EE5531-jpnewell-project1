@@ -1,0 +1,16 @@
+/home/jackson/ros2_ws/src/install/jpnewell_package/lib/jpnewell_package/jpnewell_node
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/ament_index/resource_index/package_run_dependencies/jpnewell_package
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/ament_index/resource_index/parent_prefix_path/jpnewell_package
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/ament_prefix_path.sh
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/ament_prefix_path.dsv
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/path.sh
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/path.dsv
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.bash
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.sh
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.zsh
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.dsv
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/package.dsv
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/ament_index/resource_index/packages/jpnewell_package
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/cmake/jpnewell_packageConfig.cmake
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/cmake/jpnewell_packageConfig-version.cmake
+/home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/package.xml

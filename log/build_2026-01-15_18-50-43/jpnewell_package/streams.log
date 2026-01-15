@@ -1,0 +1,51 @@
+[1.012s] Invoking command in '/home/jackson/ros2_ws/src/build/jpnewell_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jackson/ros2_ws/src/jpnewell_package -DCMAKE_INSTALL_PREFIX=/home/jackson/ros2_ws/src/install/jpnewell_package
+[1.168s] -- The C compiler identification is GNU 13.3.0
+[1.341s] -- The CXX compiler identification is GNU 13.3.0
+[1.397s] -- Detecting C compiler ABI info
+[1.675s] -- Detecting C compiler ABI info - done
+[1.700s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.700s] -- Detecting C compile features
+[1.701s] -- Detecting C compile features - done
+[1.736s] -- Detecting CXX compiler ABI info
+[2.091s] -- Detecting CXX compiler ABI info - done
+[2.120s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.120s] -- Detecting CXX compile features
+[2.129s] -- Detecting CXX compile features - done
+[2.133s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.418s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.795s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[3.316s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.318s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/jackson/ros2_ws/src/jpnewell_package/include>
+[3.319s] -- Configured cppcheck exclude dirs and/or files: 
+[3.326s] -- Added test 'lint_cmake' to check CMake code style
+[3.334s] -- Added test 'uncrustify' to check C / C++ code style
+[3.334s] -- Configured uncrustify additional arguments: 
+[3.334s] -- Added test 'xmllint' to check XML markup files
+[3.342s] -- Configuring done (2.3s)
+[3.353s] -- Generating done (0.0s)
+[3.360s] -- Build files have been written to: /home/jackson/ros2_ws/src/build/jpnewell_package
+[3.373s] Invoked command in '/home/jackson/ros2_ws/src/build/jpnewell_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jackson/ros2_ws/src/jpnewell_package -DCMAKE_INSTALL_PREFIX=/home/jackson/ros2_ws/src/install/jpnewell_package
+[3.374s] Invoking command in '/home/jackson/ros2_ws/src/build/jpnewell_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jackson/ros2_ws/src/build/jpnewell_package -- -j20 -l20
+[3.525s] [ 50%] [32mBuilding CXX object CMakeFiles/jpnewell_node.dir/src/jpnewell_node.cpp.o[0m
+[3.637s] [100%] [32m[1mLinking CXX executable jpnewell_node[0m
+[3.785s] [100%] Built target jpnewell_node
+[3.820s] Invoked command in '/home/jackson/ros2_ws/src/build/jpnewell_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jackson/ros2_ws/src/build/jpnewell_package -- -j20 -l20
+[3.821s] Invoking command in '/home/jackson/ros2_ws/src/build/jpnewell_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jackson/ros2_ws/src/build/jpnewell_package
+[3.842s] -- Install configuration: ""
+[3.842s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/lib/jpnewell_package/jpnewell_node
+[3.843s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/ament_index/resource_index/package_run_dependencies/jpnewell_package
+[3.843s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/ament_index/resource_index/parent_prefix_path/jpnewell_package
+[3.843s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/ament_prefix_path.sh
+[3.847s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/ament_prefix_path.dsv
+[3.847s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/path.sh
+[3.848s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/environment/path.dsv
+[3.848s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.bash
+[3.848s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.sh
+[3.848s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.zsh
+[3.851s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/local_setup.dsv
+[3.851s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/package.dsv
+[3.851s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/ament_index/resource_index/packages/jpnewell_package
+[3.851s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/cmake/jpnewell_packageConfig.cmake
+[3.851s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/cmake/jpnewell_packageConfig-version.cmake
+[3.852s] -- Installing: /home/jackson/ros2_ws/src/install/jpnewell_package/share/jpnewell_package/package.xml
+[3.853s] Invoked command in '/home/jackson/ros2_ws/src/build/jpnewell_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jackson/ros2_ws/src/build/jpnewell_package

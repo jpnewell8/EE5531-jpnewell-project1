@@ -1,0 +1,91 @@
+[0.295s] Invoking command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jackson/ros2_ws/src/examples/rclcpp/topics/minimal_publisher -DCMAKE_INSTALL_PREFIX=/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher
+[1.511s] -- The C compiler identification is GNU 13.3.0
+[1.511s] -- The CXX compiler identification is GNU 13.3.0
+[1.511s] -- Detecting C compiler ABI info
+[1.511s] -- Detecting C compiler ABI info - done
+[1.511s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.511s] -- Detecting C compile features
+[1.511s] -- Detecting C compile features - done
+[1.511s] -- Detecting CXX compiler ABI info
+[1.511s] -- Detecting CXX compiler ABI info - done
+[1.511s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.511s] -- Detecting CXX compile features
+[1.511s] -- Detecting CXX compile features - done
+[1.511s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.511s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.511s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.511s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.511s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.511s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.511s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.511s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.511s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.511s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.511s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.511s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.511s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.512s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.512s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.512s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.512s] -- Configured cppcheck include dirs: 
+[1.512s] -- Configured cppcheck exclude dirs and/or files: 
+[1.512s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.512s] -- Configured cpplint exclude dirs and/or files: 
+[1.512s] -- Added test 'lint_cmake' to check CMake code style
+[1.512s] -- Added test 'uncrustify' to check C / C++ code style
+[1.512s] -- Configured uncrustify additional arguments: 
+[1.512s] -- Added test 'xmllint' to check XML markup files
+[1.512s] -- Configuring done (1.1s)
+[1.512s] -- Generating done (0.0s)
+[1.512s] -- Build files have been written to: /home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher
+[1.523s] Invoked command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jackson/ros2_ws/src/examples/rclcpp/topics/minimal_publisher -DCMAKE_INSTALL_PREFIX=/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher
+[1.524s] Invoking command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher -- -j20 -l20
+[1.562s] [  8%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[1.562s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[1.563s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[1.566s] [ 33%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[1.566s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[1.566s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[7.449s] [ 58%] [32m[1mLinking CXX executable publisher_lambda[0m
+[7.773s] [ 58%] Built target publisher_lambda
+[9.983s] [ 66%] [32m[1mLinking CXX executable publisher_member_function_with_type_adapter[0m
+[10.404s] [ 66%] Built target publisher_member_function_with_type_adapter
+[15.461s] [ 75%] [32m[1mLinking CXX executable publisher_member_function[0m
+[16.001s] [ 83%] [32m[1mLinking CXX executable publisher_wait_for_all_acked[0m
+[16.057s] [ 83%] Built target publisher_member_function
+[16.395s] [ 83%] Built target publisher_wait_for_all_acked
+[16.720s] [ 91%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[17.194s] [ 91%] Built target publisher_not_composable
+[17.639s] [100%] [32m[1mLinking CXX executable publisher_member_function_with_unique_network_flow_endpoints[0m
+[18.012s] [100%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[18.043s] Invoked command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher -- -j20 -l20
+[18.044s] Invoking command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher
+[18.053s] -- Install configuration: ""
+[18.060s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[18.061s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda" to ""
+[18.061s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[18.062s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function" to ""
+[18.062s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter
+[18.063s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter" to ""
+[18.067s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints
+[18.068s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints" to ""
+[18.068s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked
+[18.072s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked" to ""
+[18.072s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[18.072s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable" to ""
+[18.072s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[18.074s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[18.074s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[18.074s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[18.074s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[18.074s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[18.075s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[18.075s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[18.075s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[18.075s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[18.075s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[18.075s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[18.078s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[18.078s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[18.078s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml
+[18.079s] Invoked command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jackson/ros2_ws/src/build/examples_rclcpp_minimal_publisher

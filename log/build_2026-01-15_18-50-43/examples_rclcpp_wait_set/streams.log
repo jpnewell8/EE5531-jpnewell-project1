@@ -1,0 +1,124 @@
+[0.280s] Invoking command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jackson/ros2_ws/src/examples/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set
+[1.494s] -- The C compiler identification is GNU 13.3.0
+[1.494s] -- The CXX compiler identification is GNU 13.3.0
+[1.494s] -- Detecting C compiler ABI info
+[1.494s] -- Detecting C compiler ABI info - done
+[1.494s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.494s] -- Detecting C compile features
+[1.494s] -- Detecting C compile features - done
+[1.494s] -- Detecting CXX compiler ABI info
+[1.494s] -- Detecting CXX compiler ABI info - done
+[1.495s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.495s] -- Detecting CXX compile features
+[1.495s] -- Detecting CXX compile features - done
+[1.495s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.495s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.495s] -- Found example_interfaces: 0.12.0 (/opt/ros/jazzy/share/example_interfaces/cmake)
+[1.495s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.495s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.495s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.495s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.495s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.495s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.495s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.495s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.495s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.495s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.495s] -- Found rclcpp_components: 28.1.13 (/opt/ros/jazzy/share/rclcpp_components/cmake)
+[1.495s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.495s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.495s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.495s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.495s] -- Configured cppcheck include dirs: /home/jackson/ros2_ws/src/examples/rclcpp/wait_set/include
+[1.495s] -- Configured cppcheck exclude dirs and/or files: 
+[1.495s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.495s] -- Configured cpplint exclude dirs and/or files: 
+[1.496s] -- Added test 'lint_cmake' to check CMake code style
+[1.496s] -- Added test 'uncrustify' to check C / C++ code style
+[1.496s] -- Configured uncrustify additional arguments: 
+[1.496s] -- Added test 'xmllint' to check XML markup files
+[1.496s] -- Configuring done (1.2s)
+[1.530s] -- Generating done (0.0s)
+[1.562s] -- Build files have been written to: /home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set
+[1.588s] Invoked command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jackson/ros2_ws/src/examples/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set
+[1.588s] Invoking command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set -- -j20 -l20
+[1.737s] [  4%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[1.743s] [  8%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[1.745s] [ 12%] [32mBuilding CXX object CMakeFiles/wait_set_listener.dir/rclcpp_components/node_main_wait_set_listener.cpp.o[0m
+[1.758s] [ 16%] [32mBuilding CXX object CMakeFiles/wait_set_topics_and_timer.dir/src/wait_set_topics_and_timer.cpp.o[0m
+[1.758s] [ 20%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[1.763s] [ 25%] [32mBuilding CXX object CMakeFiles/static_wait_set.dir/src/static_wait_set.cpp.o[0m
+[1.769s] [ 29%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[1.776s] [ 33%] [32mBuilding CXX object CMakeFiles/thread_safe_wait_set.dir/src/thread_safe_wait_set.cpp.o[0m
+[1.779s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set_random_order.dir/src/wait_set_random_order.cpp.o[0m
+[1.780s] [ 41%] [32mBuilding CXX object CMakeFiles/executor_random_order.dir/src/executor_random_order.cpp.o[0m
+[1.811s] [ 45%] [32mBuilding CXX object CMakeFiles/wait_set_topics_with_different_rates.dir/src/wait_set_topics_with_different_rates.cpp.o[0m
+[10.709s] [ 50%] [32m[1mLinking CXX executable wait_set_listener[0m
+[11.049s] [ 50%] Built target wait_set_listener
+[15.374s] [ 54%] [32m[1mLinking CXX executable wait_set_talker[0m
+[15.608s] [ 54%] Built target wait_set_talker
+[16.386s] [ 58%] [32m[1mLinking CXX shared library libtalker.so[0m
+[16.733s] [ 58%] Built target talker
+[17.069s] [ 62%] [32m[1mLinking CXX executable static_wait_set[0m
+[17.851s] [ 62%] Built target static_wait_set
+[21.562s] [ 66%] [32m[1mLinking CXX executable executor_random_order[0m
+[21.842s] [ 66%] Built target executor_random_order
+[22.132s] [ 70%] [32m[1mLinking CXX executable wait_set[0m
+[22.338s] [ 75%] [32m[1mLinking CXX executable thread_safe_wait_set[0m
+[22.424s] [ 79%] [32m[1mLinking CXX executable wait_set_topics_and_timer[0m
+[22.428s] [ 79%] Built target wait_set
+[22.574s] [ 79%] Built target thread_safe_wait_set
+[22.641s] [ 79%] Built target wait_set_topics_and_timer
+[22.858s] [ 83%] [32m[1mLinking CXX executable wait_set_topics_with_different_rates[0m
+[22.974s] [ 87%] [32m[1mLinking CXX shared library liblistener.so[0m
+[23.101s] [ 87%] Built target wait_set_topics_with_different_rates
+[23.179s] [ 91%] [32m[1mLinking CXX executable wait_set_random_order[0m
+[23.230s] [ 91%] Built target listener
+[23.248s] [ 95%] [32mBuilding CXX object CMakeFiles/wait_set_composed.dir/src/wait_set_composed.cpp.o[0m
+[23.424s] [ 95%] Built target wait_set_random_order
+[25.913s] [100%] [32m[1mLinking CXX executable wait_set_composed[0m
+[26.119s] [100%] Built target wait_set_composed
+[26.128s] Invoked command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set -- -j20 -l20
+[26.129s] Invoking command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set
+[26.135s] -- Install configuration: ""
+[26.135s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[26.136s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker" to ""
+[26.136s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[26.136s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener" to ""
+[26.136s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/libtalker.so
+[26.137s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/libtalker.so" to ""
+[26.137s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/liblistener.so
+[26.141s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/liblistener.so" to ""
+[26.141s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[26.145s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set" to ""
+[26.145s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[26.148s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set" to ""
+[26.148s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[26.151s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set" to ""
+[26.151s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[26.155s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer" to ""
+[26.155s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[26.158s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order" to ""
+[26.158s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[26.162s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order" to ""
+[26.162s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[26.165s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates" to ""
+[26.165s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[26.165s] -- Set non-toolchain portion of runtime path of "/home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed" to ""
+[26.165s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[26.166s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[26.167s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[26.167s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[26.167s] -- Installing: /home/jackson/ros2_ws/src/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[26.168s] Invoked command in '/home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jackson/ros2_ws/install/launch_testing_examples:/home/jackson/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/jackson/ros2_ws/install/examples_rclpy_minimal_service:/home/jackson/ros2_ws/install/examples_rclpy_minimal_publisher:/home/jackson/ros2_ws/install/examples_rclpy_minimal_client:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_server:/home/jackson/ros2_ws/install/examples_rclpy_minimal_action_client:/home/jackson/ros2_ws/install/examples_rclpy_guard_conditions:/home/jackson/ros2_ws/install/examples_rclpy_executors:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jackson/ros2_ws/src/build/examples_rclcpp_wait_set

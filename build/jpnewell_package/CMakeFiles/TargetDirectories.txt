@@ -1,0 +1,10 @@
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/uninstall.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/jpnewell_package_uninstall.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/jpnewell_node.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/test.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/edit_cache.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/rebuild_cache.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/list_install_components.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/install.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/install/local.dir
+/home/jackson/ros2_ws/src/build/jpnewell_package/CMakeFiles/install/strip.dir

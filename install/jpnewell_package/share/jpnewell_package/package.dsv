@@ -1,0 +1,8 @@
+source;share/jpnewell_package/hook/cmake_prefix_path.ps1
+source;share/jpnewell_package/hook/cmake_prefix_path.dsv
+source;share/jpnewell_package/hook/cmake_prefix_path.sh
+source;share/jpnewell_package/local_setup.bash
+source;share/jpnewell_package/local_setup.dsv
+source;share/jpnewell_package/local_setup.ps1
+source;share/jpnewell_package/local_setup.sh
+source;share/jpnewell_package/local_setup.zsh

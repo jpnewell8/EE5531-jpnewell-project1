@@ -1,0 +1,33 @@
+[2.795s] Invoking command in '/home/jackson/ros2_ws/src/c_pubsub': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jackson/ros2_ws/src/build/c_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jackson/ros2_ws/src/install/c_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/c_pubsub build --build-base /home/jackson/ros2_ws/src/build/c_pubsub/build install --record /home/jackson/ros2_ws/src/build/c_pubsub/install.log --single-version-externally-managed install_data
+[11.603s] running egg_info
+[11.603s] creating ../build/c_pubsub/c_pubsub.egg-info
+[11.603s] writing ../build/c_pubsub/c_pubsub.egg-info/PKG-INFO
+[11.604s] writing dependency_links to ../build/c_pubsub/c_pubsub.egg-info/dependency_links.txt
+[11.604s] writing requirements to ../build/c_pubsub/c_pubsub.egg-info/requires.txt
+[11.604s] writing top-level names to ../build/c_pubsub/c_pubsub.egg-info/top_level.txt
+[11.604s] writing manifest file '../build/c_pubsub/c_pubsub.egg-info/SOURCES.txt'
+[11.604s] reading manifest file '../build/c_pubsub/c_pubsub.egg-info/SOURCES.txt'
+[11.609s] adding license file 'LICENSE'
+[11.609s] writing manifest file '../build/c_pubsub/c_pubsub.egg-info/SOURCES.txt'
+[11.609s] running build
+[11.609s] running build_py
+[11.609s] creating /home/jackson/ros2_ws/src/build/c_pubsub/build
+[11.609s] creating /home/jackson/ros2_ws/src/build/c_pubsub/build/lib
+[11.609s] creating /home/jackson/ros2_ws/src/build/c_pubsub/build/lib/c_pubsub
+[11.609s] copying c_pubsub/__init__.py -> /home/jackson/ros2_ws/src/build/c_pubsub/build/lib/c_pubsub
+[11.609s] running install
+[11.609s] running install_lib
+[11.610s] creating /home/jackson/ros2_ws/src/install/c_pubsub/lib/python3.12/site-packages/c_pubsub
+[11.610s] copying /home/jackson/ros2_ws/src/build/c_pubsub/build/lib/c_pubsub/__init__.py -> /home/jackson/ros2_ws/src/install/c_pubsub/lib/python3.12/site-packages/c_pubsub
+[11.610s] byte-compiling /home/jackson/ros2_ws/src/install/c_pubsub/lib/python3.12/site-packages/c_pubsub/__init__.py to __init__.cpython-312.pyc
+[11.610s] running install_data
+[11.610s] creating /home/jackson/ros2_ws/src/install/c_pubsub/share/ament_index
+[11.610s] creating /home/jackson/ros2_ws/src/install/c_pubsub/share/ament_index/resource_index
+[11.610s] creating /home/jackson/ros2_ws/src/install/c_pubsub/share/ament_index/resource_index/packages
+[11.610s] copying resource/c_pubsub -> /home/jackson/ros2_ws/src/install/c_pubsub/share/ament_index/resource_index/packages
+[11.610s] copying package.xml -> /home/jackson/ros2_ws/src/install/c_pubsub/share/c_pubsub
+[11.610s] running install_egg_info
+[11.610s] Copying ../build/c_pubsub/c_pubsub.egg-info to /home/jackson/ros2_ws/src/install/c_pubsub/lib/python3.12/site-packages/c_pubsub-0.0.0-py3.12.egg-info
+[11.611s] running install_scripts
+[11.611s] writing list of installed files to '/home/jackson/ros2_ws/src/build/c_pubsub/install.log'
+[11.667s] Invoked command in '/home/jackson/ros2_ws/src/c_pubsub' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jackson/ros2_ws/src/build/c_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jackson/ros2_ws/src/install/c_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/c_pubsub build --build-base /home/jackson/ros2_ws/src/build/c_pubsub/build install --record /home/jackson/ros2_ws/src/build/c_pubsub/install.log --single-version-externally-managed install_data
